@@ -1,1 +1,1 @@
-# Django SSO using Google, Facebook and GitHub.
+# Django Auth_System using Google, Facebook and GitHub.
